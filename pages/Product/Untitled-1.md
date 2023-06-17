@@ -1,0 +1,4 @@
+
+postgres://shoestore_j08t_user:hxRHp9KmxmnpsOXz0HXlPPIKR4g6cn48@dpg-ch8to3bhp8u0vh84j5eg-a.singapore-postgres.render.com/shoestore_j08td
+
+hxRHp9KmxmnpsOXz0HXlPPIKR4g6cn48h
